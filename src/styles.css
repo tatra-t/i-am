@@ -12,10 +12,11 @@ button {
     font-weight: 400;
 }
 
-.container {
+/*.container {
     display: flex;
     justify-content: space-between;
-}
+    box-sizing: border-box;
+*/
 
 .text {
     background-color: rgb(250, 249, 249);
